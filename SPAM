@@ -96,12 +96,12 @@ echo "\033[35;1mPemograman:""\033[36;1m Bash"
 
 echo "\033[33;1mKarya: Azis197"
 sleep 1
-echo "\033[32;1mVersi: v3"
+echo "\033[32;1mVersi: v1"
 sleep 1
 echo "\033[36;1mTeam: Indonesia Power Security "
 sleep 1
 echo "\033[35;1m Spesial Thanks To: "
-echo "\033[36;1m"
+echo "\033[36;1m
 echo "Sukron M"
 echo "Doublewow"
 echo "Gobah"
