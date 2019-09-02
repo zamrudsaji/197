@@ -14,7 +14,7 @@ Berisi Tools Spammer Dengan Berbagai Macam jenis Dengan Limit Tinggi Bahkan Dipe
 <html>
 	<head>
 	
-	$ git clone https://github.com/zamrudsaji/197
+	$ git clone https://github.com/zamrudsaji/SPAM
 </html>
 <html>
 	<head>
