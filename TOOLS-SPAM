@@ -6,7 +6,7 @@ chmod +x ./install
 apt install ./smsid_1.1_all.deb
 clear
 
-toilet -f slant --gay "LiteSpam"
+toilet -f slant --gay "Indonesia Power Security"
 sleep 1
 echo "\033[33;1m Tools SPAM"
 sleep 1
