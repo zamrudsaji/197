@@ -30,9 +30,9 @@ echo "\033[31;1mJenis Spam:""\033[37;1mChat WhatsApp"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
-sleep 5
+sleep 8
 clear
-cd $HOME/LITESPAM/Tul/
+cd SPAM
 php 1
 fi
 
@@ -46,9 +46,9 @@ echo "\033[31;1mJenis Spam:""\033[37;1mSMS"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mDanz"
-sleep 5
+sleep 8
 clear
-cd $HOME/LITESPAM/Tul/
+cd SPAM
 php 2.php
 fi
 
@@ -61,9 +61,9 @@ echo "\033[31;1mJenis Spam:""\033[37;1mTelepon"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mRaja Adtiya Candra"
-sleep 5
+sleep 8
 clear
-cd $HOME/LITESPAM/Tul/
+cd SPAM
 php 3.php
 fi
 
@@ -76,9 +76,9 @@ echo "\033[31;1mJenis Spam:""\033[37;1mTelepon"
 echo "\033[31;1mBatas:""\033[37;1m1 Kali"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
-sleep 5
+sleep 8
 clear
-cd $HOME/LITESPAM/Tul/
+cd SPAM
 php 4.php
 fi
 
@@ -111,6 +111,7 @@ sleep 1
 echo "And All Member Indonesia Power Security"
 echo "\033[30;1m tunggu 8 detik"
 sleep 8
+clear
 sh SPAM
 fi
 
