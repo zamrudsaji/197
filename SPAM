@@ -32,8 +32,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
 sleep 8
 clear
-cd SPAM
-php 1
+sh SPAM
 fi
 
 if
@@ -48,8 +47,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mDanz"
 sleep 8
 clear
-cd SPAM
-php 2.php
+sh SPAM
 fi
 
 if [ $mrrm = 3 ] || [ $mrrm = 3 ]
@@ -63,8 +61,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mRaja Adtiya Candra"
 sleep 8
 clear
-cd SPAM
-php 3.php
+sh SPAM
 fi
 
 
@@ -78,8 +75,8 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
 sleep 8
 clear
-cd SPAM
-php 4.php
+sd SPAM
+
 fi
 
 
@@ -87,7 +84,7 @@ if
 [ $mrrm = 19 ] || [ $mrrm = 19 ]
 then
 clear
-toilet -f slant --gay "LiteSpam"
+toilet -f slant --gay "SPAMLITE"
 echo "\033[34;1mContact:""\033[37;1m https://fb.me/azis197"
 
 
