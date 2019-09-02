@@ -26,5 +26,4 @@ Berisi Tools Spammer Dengan Berbagai Macam jenis Dengan Limit Tinggi Bahkan Dipe
 	
 	$ sh SPAM
 </html> 
-# Author
-Salam Wonk See N Think
+# Salam Wonk See N Think
