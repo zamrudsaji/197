@@ -25,5 +25,5 @@ Berisi Tools Spammer Dengan Berbagai Macam jenis Dengan Limit Tinggi Bahkan Dipe
 	<head>
 	
 	$ sh SPAM
-</html> 
-# Salam Wonk See N Think
+
+# Salam Wonk See N Think.
